@@ -1,0 +1,1 @@
+D:\KF\trit-sat\target\release\trit-sat.exe: D:\KF\trit-sat\src\algebra.rs D:\KF\trit-sat\src\ast.rs D:\KF\trit-sat\src\eval.rs D:\KF\trit-sat\src\lib.rs D:\KF\trit-sat\src\main.rs D:\KF\trit-sat\src\parser.rs D:\KF\trit-sat\src\sat.rs D:\KF\trit-sat\src\value.rs
