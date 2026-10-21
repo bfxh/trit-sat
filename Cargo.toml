@@ -8,3 +8,6 @@ repository = "https://github.com/bfxh/trit-sat"
 description = "SAT-based equivalence checking for three-valued logics (K3 / Ł3 / B3)"
 
 [dependencies]
+clap = { version = "4", features = ["derive"] }
+thiserror = "2"
+varisat = "0.2"
